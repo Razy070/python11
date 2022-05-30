@@ -19,9 +19,12 @@ class Application(tk.Frame):
 
     def say_hi(self):
         print("все работает хорошо")
+<<<<<<< Updated upstream
 
 root = tk.Tk()
 app = Application(master=root)
+=======
+>>>>>>> Stashed changes
 app.mainloop()
 
 
