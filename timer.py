@@ -1,3 +1,4 @@
+# импорт библиотеки "time"
 import time
 
 hours = 0
@@ -22,6 +23,6 @@ while True:
         minutes = 0
         hours = 0
 
-    time.sleep(0.00001)
+    time.sleep(secs=0.00001)
     print(f"{hours}:{minutes}" + ":" + str(seconds))
 # код после цикла
