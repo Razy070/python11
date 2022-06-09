@@ -127,17 +127,18 @@ finally:
 workbook2 = Workbook()
 worksheet2 = workbook2.active
 
-titles = ["Город", 'мероприятий', 'Охват', 'Встреча']
-index = 1
+titles = ["а_1", 'б_1', 'ц_1', '']
+index = 20
 for title in titles:
-    worksheet2[f"{get_column_letter(index)}1"] = title
-    index += 1
+    worksheet2[f"{get_column_letter(index)}5"] = title
+    index += 5
 
-total_vstr = 0
-total_obxv = 0
-total_mer = 0
-
-extra_index = 2
+total_vstr ="а_1"
+total_obxv ="б_1"
+total_mer ="ц_1"
+while total_vstr:20
+index = 20
+extra_index = 1
 for row in data:
     print(row)
     print(type(row))
@@ -156,7 +157,7 @@ for row in data:
         # print(f'key = {key}')
         # print(f'value = {value}')
 
-        if key == 'Всего встреч':
+        if key == 'всего встреч':
             total_vstr += int(value)
 
         if key == 'Общий охват':
@@ -169,11 +170,11 @@ for row in data:
         index += 1
     extra_index += 1
 
-titles = ["Итого", total_mer, total_obxv, total_vstr]
+titles = ["", total_mer, total_obxv, total_vstr]
 index = 1
 for title in titles:
     worksheet2[f"{get_column_letter(index)}{extra_index}"] = title
     index += 1
 
 
-workbook2.save(f"{dir_name}/{new_dir_name}/result.xlsx")
+workbook2.save(f"{dir_name}/{new_dir_name}/resulttt.xlsx")

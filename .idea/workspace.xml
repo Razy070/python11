@@ -5,17 +5,93 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ce91ad9-883b-4ba9-9467-b3ee8fc1e387" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/home_work2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parser_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ttk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workkk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel_analyse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/BoldDemo.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/sample_example_new.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Абай.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Актогай.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 БЖ.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Балхаш.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Жанаарка.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Жезказган.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Каражал.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Каркаралинск.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Нура.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Осакаровка.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Приозерск.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Сарань.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Сатпаев.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Темиртау.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Улытау.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Шахтинск.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 Шетский.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06 крг.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/другой формат/отчет охват за 02.06.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Абай.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Актогай.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 БЖ.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Балхаш.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Жанаарка.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Жезказган.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Каражал.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Каркаралинск.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Нура.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Осакаровка.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Приозерск.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Сарань.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Сатпаев.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Темиртау.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Улытау.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Шахтинск.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 Шетский.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06 крг.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/другой формат/отчет охват за 02.06.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ссылки.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/СВОДформа 18 на 01.06 Карагандинская область.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06  Абайский район.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Абай.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Актогай.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 БЖ.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Балхаш.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Жанаарка.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Жезказган.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Караганда.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Каражал.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Каркаралинск.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Нура.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Осакаровка.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Приозерск.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Сарань.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Сатпаев.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Темиртау.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Улытау.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Шахтинск.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Шетский.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/221-2_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/221-2_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel_create.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel_create.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel_update.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel_update.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json.py" beforeDir="false" afterPath="$PROJECT_DIR$/json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.py" beforeDir="false" afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new/new.txt" beforeDir="false" afterPath="$PROJECT_DIR$/new/new.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/parser_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/sample.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/sample_example.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/temp/sample_example.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_with_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_with_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workkk.py" beforeDir="false" afterPath="$PROJECT_DIR$/workkk.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +130,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.parser_2">
-    <configuration name="home_work2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python11" />
+  <component name="RunManager" selected="Python.home__work4">
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="221-2_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -67,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,8 +152,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="parser_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python11" />
+    <configuration name="excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="221-2_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -88,7 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parser_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,8 +173,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python11" />
+    <configuration name="home__work4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="221-2_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -109,7 +185,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ui.py" />
+      <option name="SCRIPT_NAME" value="C:\GitHub\python11\home__work4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,29 +194,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="work_with_txt (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python11" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/work_with_txt.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="workkk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python11" />
+    <configuration name="homework" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="221-2_1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -151,7 +206,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workkk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="221-2_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +238,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.parser_2" />
-        <item itemvalue="Python.workkk" />
-        <item itemvalue="Python.ui" />
-        <item itemvalue="Python.home_work2" />
-        <item itemvalue="Python.work_with_txt (1)" />
+        <item itemvalue="Python.home__work4" />
+        <item itemvalue="Python.homework" />
+        <item itemvalue="Python.excel" />
+        <item itemvalue="Python.new_2" />
+        <item itemvalue="Python.ex" />
       </list>
     </recent_temporary>
   </component>
