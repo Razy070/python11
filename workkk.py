@@ -1,8 +1,11 @@
 import tkinter as tk
+from idlelib.configdialog import changes
 
-class Application(tk.Frame):
+
+plication(tk.Frame):
     def __init__(self, master=None):
         super().__init__(master)
+        self.hi_there = None
         self.master = master
         self.pack()
         self.create_widgets()
@@ -19,7 +22,17 @@ class Application(tk.Frame):
 
     def say_hi(self):
         print("все работает хорошо")
-app.mainloop()
+
+
+root = tk.Tk()
+
+
+class Application:
+    pass
+
+
+app = Application(master=root)
+
 
 
 
