@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="717fedad-028d-446a-99da-749ece551643" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel_analyse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/folder/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qqq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/BoldDemo.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/homework44444.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsx/home__work4.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsx/home_work4.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsx/homework.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsx/sample.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsx/sample_example.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsx/samplee_example.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsx/sampleeeee.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xlsx/samplel.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ссылки.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/СВОДформа 18 на 01.06 Карагандинская область.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06  Абайский район.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Абай.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Актогай.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 БЖ.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Балхаш.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Жанаарка.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Жезказган.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Караганда.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Каражал.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Каркаралинск.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Нура.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Осакаровка.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Приозерск.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Сарань.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Сатпаев.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Темиртау.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Улытау.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Шахтинск.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/форма 18/форма 18/форма 18 на 02.06 Шетский.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/221-2_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/221-2_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0get_one.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1get_one.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2get_one.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3get_one.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4get_one.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5get_one.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6get_one.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7get_one.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8get_one.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9get_one.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel_update.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel_update.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json.py" beforeDir="false" afterPath="$PROJECT_DIR$/json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new.py" beforeDir="false" afterPath="$PROJECT_DIR$/new.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/new_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parser_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/parser_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/dist/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_100.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_26.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_27.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_29.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_30.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_31.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_32.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_33.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_34.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_35.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_36.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_37.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_38.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_39.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_40.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_41.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_42.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_43.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_44.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_45.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_46.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_47.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_48.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_49.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_50.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_51.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_52.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_53.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_54.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_55.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_56.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_57.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_58.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_59.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_60.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_61.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_62.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_63.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_64.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_65.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_66.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_67.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_68.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_69.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_70.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_71.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_72.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_73.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_74.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_75.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_76.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_77.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_78.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_79.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_80.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_81.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_82.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_83.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_84.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_85.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_86.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_87.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_88.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_89.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_90.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_91.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_92.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_93.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_94.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_95.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_96.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_97.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_98.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/data_99.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/sample_example.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_100.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_150.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_1990.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_26.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_27.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_29.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_30.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_300.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_31.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_32.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_33.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_34.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_35.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_36.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_37.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_38.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_39.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_40.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_41.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_42.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_43.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_44.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_45.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_46.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_47.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_48.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_49.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_499999.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_50.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_51.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_52.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_53.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_54.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_55.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_56.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_57.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_58.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_59.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_60.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_61.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_62.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_63.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_64.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_65.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_66.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_67.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_68.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_69.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_70.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_71.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_72.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_73.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_74.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_75.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_76.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_77.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_78.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_79.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_80.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_800.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_81.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_82.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_83.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_84.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_85.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_86.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_87.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_88.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_89.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_90.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_91.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_92.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_93.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_94.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_95.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_96.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_97.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_98.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_99.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/temp/data_9999.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_with_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_with_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_with_txt.py" beforeDir="false" afterPath="$PROJECT_DIR$/work_with_txt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workkk.py" beforeDir="false" afterPath="$PROJECT_DIR$/workkk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www.py" beforeDir="false" afterPath="$PROJECT_DIR$/www.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29N5nvkkbriH4gSnK55CdGdfu13" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\python11\homework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.home_work6 (3)">
+    <configuration name="home_work6 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="221-2_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/home_work6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="home_work6 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="221-2_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/doc/GitHub/python11/homework" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:/doc/GitHub/python11/homework/home_work6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="home_work6 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="221-2_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/home_work6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="home_work6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="221-2_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\GitHub\python11\homework\home_work6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework6 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="221-2_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework/homework6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.home_work6 (3)" />
+        <item itemvalue="Python.home_work6 (2)" />
+        <item itemvalue="Python.home_work6 (1)" />
+        <item itemvalue="Python.home_work6" />
+        <item itemvalue="Python.homework6 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="717fedad-028d-446a-99da-749ece551643" name="Changes" comment="" />
+      <created>1652940872569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652940872569</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
