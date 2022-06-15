@@ -48,10 +48,9 @@ for num in var_range:
         # записываем значение в выбранную ячейку
         worksheet[f'{col}{row}'] = str(name)
 
-# записываем значение в выбранную (А1) ячейку
-# worksheet['A1'] = 42
+
 
 # сохраняем рабочую книгу в excel-файл(xlsx/xls)
-workbook.save("sample_example.xlsx")
+#workbook.save("sample_example.xlsx")
 
 
